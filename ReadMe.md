@@ -1,5 +1,5 @@
 # 💫 About Me:
-Prazer, Meu nome é Gênisson<br>Sou estuante de Front End
+Prazer, Meu nome é Gênisson<br>Sou estudante de Front End
 
 
 ## 🌐 Socials:
