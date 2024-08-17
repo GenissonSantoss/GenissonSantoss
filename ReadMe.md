@@ -1,5 +1,5 @@
 # 💫 Prazer, Eu sou o Gênisson:
-•Sou estudante de Front End<br> 
+• 💻Sou estudante de Front End<br> • 😄 Pronouns: ele/dele
 
 
 ## 🌐 Socials:
